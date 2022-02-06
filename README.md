@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DSM-InTechs&repo=InTechs-backend&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuQzQ&repo=Backend&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DSM-InTechs&repo=InTechs-backend&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuQzQ&repo=Backend&theme=github_dark)](https://github.com/QuQzQ/Backend)
 
 
 ### hackathon
