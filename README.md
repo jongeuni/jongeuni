@@ -1,13 +1,12 @@
-Hello, I'm interested in creating a better world.<br>
-Currently, I'm studying backend and I use java and spring boot.
+Hello, I'm passionate about creating a better world. <br>
+I use development as a tool to achieve that goal. <br>
+I have experience working on features with complex and frequently changing requirements, <br>
+and I place a strong emphasis on separation of concerns and scalability during development. <br>
 
 I'm writing about the development here. <br>
 [study blog](https://yatta.tistory.com) && [development thinking blog](https://medium.com/@lje0818ovo ) <br><br>
 
-The other errors are summarized here. ⬇️ <br>
-[error blog](https://helll-o.tistory.com) <br><br>
-
-If you have any contact or questions, please contact us here. ⬇️ <br>
+If you have any questions, please contact us here. ⬇️ <br>
 [linkedin](https://www.linkedin.com/in/%EC%A2%85%EC%9D%80-%EC%9D%B4-6a166623b/) <br><br>
 
 ### my pat 👾👾
