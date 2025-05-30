@@ -1,13 +1,15 @@
-Hello, I'm passionate about creating a better world. <br>
-I use development as a tool to achieve that goal. <br>
-I have experience working on features with complex and frequently changing requirements, <br>
-and I place a strong emphasis on separation of concerns and scalability during development. <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=-1px&pause=1000&color=1006AE92&background=FFFFFF00&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%ED%95%A8%EA%BB%98+%EB%A7%8C%EB%93%9C%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%A2%85%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
-I'm writing about the development here. <br>
-[study blog](https://yatta.tistory.com) && [development thinking blog](https://medium.com/@lje0818ovo ) <br><br>
+`Java` `Spring Boot` `TypeScript` `NestJS`
+<br><br>
 
-If you have any questions, please contact us here. ⬇️ <br>
-[linkedin](https://www.linkedin.com/in/%EC%A2%85%EC%9D%80-%EC%9D%B4-6a166623b/) <br><br>
+> [!Note]
+> **개발을 도구**로 **더 좋은 세상**을 만들고 싶습니다
+>
+> 🙋 자주 변경되고 복잡한 요구사항을 개발한 경험이 있어요
+>
+> 🙋 확장성과 유지보수를 고려하며 개발해요
 
-### my pat 👾👾
-<a href="https://dragcave.net/view/1UXR2"><img src="https://dragcave.net/image/1UXR2.gif" style="border-width:0" alt="Adopt one today!"/></a><a href="https://dragcave.net/view/KHwOq"><img src="https://dragcave.net/image/KHwOq.gif" style="border-width:0" alt="Adopt one today!"/></a><a href="https://dragcave.net/view/l6SxJ"><img src="https://dragcave.net/image/l6SxJ.gif" style="border-width:0" alt="Adopt one today!"/></a><a href="https://dragcave.net/view/mxEfe"><img src="https://dragcave.net/image/mxEfe.gif" style="border-width:0" alt="Adopt one today!"/></a><a href="https://dragcave.net/view/M53l5"><a href="https://dragcave.net/view/Q2IKw"><img src="https://dragcave.net/image/Q2IKw.gif" style="border-width:0" alt="Adopt one today!"/></a>
+<br>
+
+<a href="https://dragcave.net/view/1UXR2"><img src="https://dragcave.net/image/1UXR2.gif" style="border-width:0" alt="Adopt one today!"/><a/><img src="https://dragcave.net/image/KHwOq.gif" style="border-width:0" alt="Adopt one today!"/></a>  [.º(이곳에서 제가 쓴 글을 확인하실 수 있어요)](https://yatta.tistory.com/)<a href="https://dragcave.net/view/KHwOq">
