@@ -14,4 +14,4 @@
 
 <br>
 
-<a href="https://dragcave.net/view/1UXR2"><img src="https://dragcave.net/image/1UXR2.gif" style="border-width:0" alt="Adopt one today!"/><a/><a href="https://dragcave.net/view/1UXR2"><img src="https://dragcave.net/image/KHwOq.gif" style="border-width:0" alt="Adopt one today!"/></a>  [.º(You can check out my posts here)](https://yatta.tistory.com/)<a href="https://dragcave.net/view/KHwOq">
+[![box](https://markdown-box-generator.vercel.app/api/box?title=개발_블로그_😸&author=Jongeun&style=tistory)](https://yatta.tistory.com/tag/good) [![box](https://markdown-box-generator.vercel.app/api/box?title=브런치_블로그_🐻‍❄️&author=Yatta&style=brunch)](https://brunch.co.kr/@yatta)
