@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=-1px&pause=1000&color=1006AE92&background=FFFFFF00&width=500&lines=Hello+there!+I'm+JongEun+Lee,+a+developer+who+builds+together.)](https://git.io/typing-svg)
+# Hi, I'm Alex 👋
 
+Backend Developer
 
-<img src="https://img.shields.io/badge/Java-brown?style=flat-square&logo=Java&logoColor=white&link=https://github.com/joungeuni/languageStudy/tree/master/JAVA"> <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=SpringBoot&logoColor=white&link=https://yatta.tistory.com/tag/framework"> <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white&link=https://github.com/jongeuni/event-reward-management-server"> <img src="https://img.shields.io/badge/NestJS-red?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/jongeuni/event-reward-management-server">
+[![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat)](https://isocpp.org) [![Python](https://img.shields.io/badge/Python-green?style=flat)](https://python.org) [![Docker](https://img.shields.io/badge/Docker-blue?style=flat)](https://docker.com)
 
-<br>
+## About Me
 
-> [!Note]
-> I want to **make the world better** using **development as a tool**.  
->
-> 🙋 I have experience developing features with **frequent and complex requirements**.  
->
-> 🙋 I focus on **scalability** and **maintainability** in everything I build.
+I build backend systems that scale.
 
-<br>
+## GitHub Stats
 
-[![box](https://markdown-box-generator.vercel.app/api/box?title=개발_블로그_😸&author=Jongeun&style=tistory)](https://yatta.tistory.com/tag/good) [![box](https://markdown-box-generator.vercel.app/api/box?title=브런치_블로그_🐻‍❄️&author=Yatta&style=brunch)](https://brunch.co.kr/@yatta)
+![alex123's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=default)
+
+## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-18181b?logo=github&logoColor=white)](https://github.com/alex123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex123)
